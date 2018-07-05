@@ -1,0 +1,33 @@
+{
+  "name": "K-Translator",
+  "version": "4.0.0",
+  "description": "Translates messages to tons of different languages",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harumaki-cryptocoin/K-Translator.git"
+  },
+  "keywords": [
+    "Translate"
+  ],
+  "author": "TannerReynolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harumaki-cryptocoin/K-Translator/issues"
+  },
+  "homepage": "https://github.com/Harumaki-cryptocoin/K-Translator",
+  "dependencies": {
+    "css-select": "^2.0.0",
+    "eris": "^0.7.2",
+    "flipout": "^1.0.0",
+    "gizoogle": "0.0.6",
+    "google-translate-api": "^2.3.0",
+    "japanese": "^1.2.0",
+    "kpop": "^0.1.2",
+    "os-toolbox": "^0.2.9",
+    "to-zalgo": "^1.0.1"
+  }
+}
