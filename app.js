@@ -155,11 +155,11 @@ bot.on("messageCreate", async msg => {
       color: 0x7188d9,
       fields: [
         {
-          name: "ğŸ“¥ Input",
+          name: "ğŸ“¥Input",
           value: "```JS\n" + input + "\n```"
         },
         {
-          name: "ğŸ“¤ Result",
+          name: "ğŸ“¤Result",
           value: "```JS\n" + result.substr(0, 1000) + "\n```"
         }
       ]
@@ -277,8 +277,8 @@ bot.on("messageCreate", async msg => {
           value: "Just Type **\"!t (language) (text to be translated)\"** and translate will handle the rest! For example, if I want to tell somebody what my name is in Japanese, I just have to type **\":t ja Hi, my name is misskotocoin!\"**"
         },
         {
-          name: "g‚¢•û",
-          value: "–|–ó‚µ‚½‚¢•¶Í‚Ì‘O‚Éu!t (–|–óæ‚ÌŒ¾ŒêƒR[ƒh) –|–ó‚µ‚½‚¢•¶Ív‚ÅA‚·‚®‚É–|–ó‚Å‚«‚Ü‚·B"
+          name: "ä½¿ã„æ–¹",
+          value: "ç¿»è¨³ã—ãŸã„æ–‡ç« ã®å‰ã«ã€Œ!t (ç¿»è¨³å…ˆã®è¨€èªã‚³ãƒ¼ãƒ‰) ç¿»è¨³ã—ãŸã„æ–‡ç« ã€ã§ã€ã™ãã«ç¿»è¨³ã§ãã¾ã™ã€‚"
         }
       ]
     }})
